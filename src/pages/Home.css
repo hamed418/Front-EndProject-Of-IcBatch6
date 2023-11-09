@@ -1,0 +1,25 @@
+.page-banner_details{
+    background-color: rgb(76, 152, 156);
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(240, 187, 123);
+    font-size: 22px;
+    font-family: fangsong;
+}
+.product__details_title h1{
+    font-family: fangsong;
+}
+.product__details_title h2{
+    font-family: fangsong;
+    font-size: 40px;
+    color: rgb(43, 148, 151);
+    margin-top: 100px;
+    margin-bottom: 6rem;
+}
+.grid__three{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
